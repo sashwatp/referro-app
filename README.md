@@ -1,2 +1,2 @@
-# referrhub_app
+# Referro App
 Referral Hub Webapp
